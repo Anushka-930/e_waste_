@@ -1,0 +1,65 @@
+﻿{% extends "base.html" %}
+
+{% block title %}Edit prediction{% endblock %}
+
+{% block content %}
+<section class="page-header">
+    <h2>Edit prediction</h2>
+</section>
+<div class="form-wrap card">
+    <form method="post">
+        {% csrf_token %}
+        <div class="row">
+            <label>
+                Category
+                <select name="category" required>
+                    {% for choice in categories %}
+                        <option value="{{ choice }}" {% if prediction.category == choice %}selected{% endif %}>{{ choice }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+            <label>
+                Device Type
+                <select name="device_type" required>
+                    {% for choice in device_types %}
+                        <option value="{{ choice }}" {% if prediction.device_type == choice %}selected{% endif %}>{{ choice }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+        </div>
+        <div class="row">
+            <label>
+                Weight (kg)
+                <input type="number" step="0.01" name="weight_kg" value="{{ prediction.weight_kg }}" required />
+            </label>
+            <label>
+                Condition
+                <select name="condition" required>
+                    {% for choice in conditions %}
+                        <option value="{{ choice }}" {% if prediction.condition == choice %}selected{% endif %}>{{ choice }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+        </div>
+        <div class="row">
+            <label>
+                Age (years)
+                <input type="number" name="age_years" value="{{ prediction.age_years }}" required />
+            </label>
+            <label>
+                Brand
+                <select name="brand" required>
+                    {% for choice in brands %}
+                        <option value="{{ choice }}" {% if prediction.brand == choice %}selected{% endif %}>{{ choice }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+        </div>
+        <label>
+            Quantity
+            <input type="number" min="1" name="quantity" value="{{ prediction.quantity }}" required />
+        </label>
+        <button class="btn" type="submit">Update estimate</button>
+    </form>
+</div>
+{% endblock %}

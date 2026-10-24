@@ -1,0 +1,14 @@
+﻿{% extends "base.html" %}
+
+{% block title %}Profile{% endblock %}
+
+{% block content %}
+<section class="page-header">
+    <h2>User profile</h2>
+</section>
+<div class="card profile-card">
+    <p><strong>Name:</strong> {{ user_name }}</p>
+    <p><strong>Role:</strong> E-Waste Analyst</p>
+    <p><strong>Track:</strong> Device valuation and recycling insights</p>
+</div>
+{% endblock %}

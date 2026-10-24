@@ -1,0 +1,30 @@
+﻿{% extends "base.html" %}
+
+{% block title %}Home | E-Waste Value Finder{% endblock %}
+
+{% block content %}
+<section class="hero">
+    <div class="hero-grid">
+        <div>
+            <h1>Turn e-waste into value with smarter pricing.</h1>
+            <p>
+                Estimate the resale value of discarded electronics using real sales trends,
+                device condition, age, quantity, and material weight.
+            </p>
+            <div class="btn-row">
+                <a href="{% url 'predict' %}" class="btn">Estimate now</a>
+                <a href="{% url 'dashboard' %}" class="btn secondary">View dashboard</a>
+            </div>
+        </div>
+        <div class="card">
+            <h3>Quick snapshot</h3>
+            <p>Analyze electronics from categories such as printers, TVs, air conditioners, laptops, and mobile devices.</p>
+            <ul>
+                <li>Accuracy based on historical dataset</li>
+                <li>Fast price estimate</li>
+                <li>Track your previous predictions</li>
+            </ul>
+        </div>
+    </div>
+</section>
+{% endblock %}

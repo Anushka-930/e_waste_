@@ -1,0 +1,27 @@
+﻿{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<section class="page-header">
+    <h2>Dashboard</h2>
+</section>
+<div class="metrics">
+    <div class="metric">
+        <small>Total records</small>
+        <strong>{{ record_count }}</strong>
+    </div>
+    <div class="metric">
+        <small>Average value</small>
+        <strong>₹{{ average_value }}</strong>
+    </div>
+    <div class="metric">
+        <small>Top category</small>
+        <strong>{{ top_category }}</strong>
+    </div>
+    <div class="metric">
+        <small>Saved predictions</small>
+        <strong>{{ history_count }}</strong>
+    </div>
+</div>
+{% endblock %}

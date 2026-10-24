@@ -1,0 +1,29 @@
+﻿{% extends "base.html" %}
+
+{% block title %}Register{% endblock %}
+
+{% block content %}
+<section class="page-header">
+    <h2>Create account</h2>
+</section>
+<div class="form-wrap card">
+    <form method="post">
+        {% csrf_token %}
+        <div class="row">
+            <label>
+                Full name
+                <input type="text" name="full_name" placeholder="Your name" required />
+            </label>
+            <label>
+                Email
+                <input type="email" name="email" placeholder="name@example.com" required />
+            </label>
+        </div>
+        <label>
+            Password
+            <input type="password" name="password" placeholder="Create a strong password" required />
+        </label>
+        <button class="btn" type="submit">Register</button>
+    </form>
+</div>
+{% endblock %}

@@ -1,0 +1,501 @@
+category,device_type,weight_kg,condition,age_years,brand,quantity,estimated_value
+Printer,Laser Printer,76.11,Poor,4,Epson,2,12550
+TV,LED TV,77.62,Poor,5,Samsung,1,11300
+AC,Air Conditioner,42.46,Good,0,Voltas,3,36500
+Other,Electronic Device,16.77,Fair,8,Other,3,10800
+Printer,Inkjet Printer,36.59,Working,8,Brother,2,23150
+Monitor,LCD Monitor,35.77,Working,7,Dell,2,18700
+Mobile,Feature Phone,0.29,Good,5,Apple,2,2350
+AC,Air Conditioner,71.69,Fair,7,Daikin,1,20550
+Tablet,Tablet,0.56,Good,4,Realme,2,3300
+Router,WiFi Router,1.62,Working,6,TP-Link,1,500
+Refrigerator,Refrigerator,2.11,Working,7,Whirlpool,3,9600
+Washing Machine,Washing Machine,73.28,Non-Working,1,LG,3,13950
+Refrigerator,Refrigerator,53.61,Fair,5,Whirlpool,3,30600
+Laptop,Laptop,2.64,Working,6,Lenovo,1,4750
+AC,Air Conditioner,3.01,Working,6,LG,1,4500
+Router,WiFi Router,1.13,Working,6,Netgear,3,1150
+Mobile,Feature Phone,0.31,Fair,5,OnePlus,2,1700
+Washing Machine,Washing Machine,26.12,Working,8,Whirlpool,2,10250
+Router,WiFi Router,1.74,Working,7,Netgear,1,500
+Refrigerator,Refrigerator,75.49,Good,7,LG,1,12300
+AC,Air Conditioner,77.03,Good,1,Voltas,1,14450
+Printer,Inkjet Printer,28.26,Fair,1,HP,2,14700
+Printer,Laser Printer,7.39,Good,0,Epson,2,5300
+Keyboard,Keyboard,1.65,Poor,8,Lenovo,3,650
+Router,WiFi Router,1.73,Good,3,Netgear,2,1150
+Monitor,LED Monitor,55.58,Good,1,LG,3,33850
+Washing Machine,Washing Machine,17.52,Fair,9,Whirlpool,3,13000
+Mouse,Mouse,0.6,Non-Working,4,Logitech,3,300
+Washing Machine,Washing Machine,28.59,Poor,2,IFB,2,10500
+Refrigerator,Refrigerator,63.04,Fair,2,Godrej,2,33100
+Washing Machine,Washing Machine,1.4,Working,1,Samsung,2,8800
+Monitor,LCD Monitor,52.32,Poor,0,LG,3,18450
+Printer,Laser Printer,20.28,Non-Working,2,Canon,3,4550
+Laptop,Laptop,1.59,Poor,2,Acer,3,7800
+Laptop,Laptop,3.19,Good,4,Lenovo,1,5250
+Desktop,Desktop PC,78.45,Working,4,Lenovo,1,16050
+Mobile,Smartphone,0.21,Poor,2,Vivo,2,1550
+Laptop,Laptop,2.9,Working,5,Asus,2,10900
+Desktop,Desktop PC,21.24,Fair,9,Lenovo,1,4550
+Desktop,Desktop PC,27.7,Good,1,Lenovo,3,17350
+Washing Machine,Washing Machine,13.25,Non-Working,5,Samsung,2,2300
+Laptop,Laptop,2.86,Good,4,Acer,2,8900
+Monitor,LCD Monitor,43.71,Fair,3,BenQ,2,16750
+Desktop,Desktop PC,35.68,Working,4,HP,1,7350
+Washing Machine,Washing Machine,55.39,Working,9,LG,3,41150
+Refrigerator,Refrigerator,74.83,Fair,6,Godrej,3,38500
+Router,WiFi Router,0.9,Working,2,TP-Link,2,750
+AC,Air Conditioner,61.31,Poor,3,LG,2,19100
+Printer,Laser Printer,49.65,Fair,1,Brother,3,14550
+Refrigerator,Refrigerator,53.04,Working,7,Godrej,3,63800
+Mouse,Mouse,1.21,Non-Working,7,Lenovo,2,200
+Keyboard,Keyboard,1.89,Good,0,Lenovo,2,950
+Router,WiFi Router,0.23,Working,1,TP-Link,3,1150
+Router,WiFi Router,1.71,Working,1,Netgear,1,600
+AC,Air Conditioner,56.04,Fair,7,Daikin,1,13650
+Washing Machine,Washing Machine,45.91,Fair,2,IFB,2,14750
+Refrigerator,Refrigerator,69.5,Fair,0,Whirlpool,1,15550
+Laptop,Laptop,2.21,Poor,5,Asus,3,6150
+Monitor,LCD Monitor,76.72,Poor,8,Acer,2,18700
+Tablet,Tablet,0.4,Fair,3,Lenovo,1,1150
+Printer,Laser Printer,63.38,Working,9,Canon,3,74500
+Mouse,Mouse,1.41,Poor,0,Logitech,2,350
+Router,WiFi Router,0.52,Good,10,D-Link,2,200
+Monitor,LED Monitor,75.83,Non-Working,3,Acer,2,10800
+Desktop,Desktop PC,62.39,Fair,10,HP,2,16300
+Mobile,Feature Phone,0.25,Poor,7,Realme,3,1450
+Laptop,Laptop,2.56,Working,8,Acer,1,3250
+AC,Air Conditioner,1.96,Non-Working,4,Blue Star,3,3850
+Monitor,LED Monitor,55.94,Working,8,LG,2,26950
+Keyboard,Keyboard,0.63,Non-Working,7,Dell,1,50
+Mouse,Mouse,1.33,Good,1,Lenovo,1,400
+Monitor,LED Monitor,55.09,Working,2,BenQ,2,41900
+Tablet,Tablet,0.69,Good,7,Apple,2,2950
+TV,LED TV,38.95,Non-Working,10,Mi,2,4350
+TV,LED TV,67.53,Poor,1,LG,3,19300
+Tablet,Tablet,0.9,Fair,4,Samsung,1,1650
+Desktop,Desktop PC,20.54,Good,0,Lenovo,1,7750
+Mobile,Feature Phone,0.18,Working,9,Apple,2,1800
+Keyboard,Keyboard,0.68,Poor,4,Dell,2,350
+Printer,Inkjet Printer,62.99,Fair,10,Epson,3,22200
+Mouse,Mouse,1.96,Fair,1,Dell,3,1250
+TV,LED TV,62.91,Good,6,Samsung,3,55800
+Router,WiFi Router,0.38,Non-Working,9,TP-Link,1,50
+Keyboard,Keyboard,1.2,Good,8,HP,3,1100
+Keyboard,Keyboard,0.36,Fair,7,Lenovo,1,350
+Mobile,Smartphone,0.16,Working,4,Apple,2,2950
+Tablet,Tablet,0.65,Fair,9,Apple,2,1650
+AC,Air Conditioner,64.15,Fair,7,Voltas,3,30250
+Laptop,Laptop,1.75,Poor,0,Lenovo,1,3350
+Other,Electronic Device,49.84,Good,7,Other,2,25300
+Other,Electronic Device,12.67,Working,2,Other,3,13050
+Desktop,Desktop PC,20.16,Good,4,HP,3,17500
+Printer,Laser Printer,26.87,Working,0,HP,1,8800
+Monitor,LED Monitor,59.21,Fair,7,LG,3,30600
+Tablet,Tablet,0.55,Fair,1,Lenovo,3,4600
+TV,LED TV,13.08,Working,3,Sony,2,10850
+Refrigerator,Refrigerator,71.84,Working,2,Whirlpool,1,28450
+Mouse,Mouse,1.84,Working,5,Logitech,2,750
+Desktop,Desktop PC,65.85,Poor,10,HP,3,28350
+Monitor,LED Monitor,42.86,Poor,5,BenQ,2,7600
+Monitor,LED Monitor,43.07,Working,1,Samsung,1,8250
+Tablet,Tablet,0.35,Working,7,Apple,3,5250
+Laptop,Laptop,2.9,Poor,1,Asus,3,9800
+Router,WiFi Router,0.37,Poor,2,TP-Link,1,300
+Keyboard,Keyboard,1.3,Non-Working,8,Logitech,2,200
+Other,Electronic Device,72.07,Fair,0,Other,3,34100
+Laptop,Laptop,1.66,Non-Working,6,HP,2,2200
+TV,LCD TV,27.29,Poor,9,TCL,3,12700
+Laptop,Laptop,2.27,Non-Working,3,Asus,2,3150
+Laptop,Laptop,1.27,Fair,9,Asus,3,6800
+TV,LCD TV,43.38,Good,7,TCL,3,37200
+Mouse,Mouse,1.57,Working,2,HP,2,850
+Tablet,Tablet,0.8,Non-Working,7,Apple,2,950
+Mouse,Mouse,1.83,Working,1,Logitech,1,400
+Mouse,Mouse,1.23,Working,3,Logitech,1,500
+AC,Air Conditioner,6.44,Working,7,LG,2,10800
+Laptop,Laptop,1.43,Non-Working,3,Dell,1,1750
+Tablet,Tablet,0.56,Poor,9,Realme,1,600
+Washing Machine,Washing Machine,10.03,Good,9,Whirlpool,2,6950
+Laptop,Laptop,2.37,Working,10,Lenovo,2,5700
+Printer,Laser Printer,34.1,Non-Working,0,HP,3,5550
+Laptop,Laptop,1.56,Non-Working,0,Acer,2,3400
+Router,WiFi Router,0.45,Good,6,Netgear,3,800
+Laptop,Laptop,1.27,Good,7,Lenovo,2,6100
+Desktop,Desktop PC,36.81,Fair,0,HP,2,16150
+Router,WiFi Router,0.24,Poor,9,D-Link,3,250
+Mouse,Mouse,1.62,Non-Working,1,HP,1,50
+Printer,Inkjet Printer,40.94,Fair,8,Epson,1,4850
+Laptop,Laptop,2.31,Poor,2,Lenovo,1,2500
+Mobile,Smartphone,0.27,Poor,4,Xiaomi,1,600
+Router,WiFi Router,0.9,Non-Working,4,Tenda,3,400
+Mouse,Mouse,1.68,Good,8,Dell,1,250
+Monitor,LCD Monitor,61.32,Working,9,Dell,2,32350
+Laptop,Laptop,1.74,Fair,8,Dell,2,5050
+Other,Electronic Device,78.77,Fair,1,Other,3,43750
+AC,Air Conditioner,46.54,Good,0,Blue Star,1,14850
+Mouse,Mouse,0.49,Working,4,HP,1,150
+Router,WiFi Router,1.36,Working,0,D-Link,1,650
+AC,Air Conditioner,34.34,Good,5,Voltas,1,6800
+Tablet,Tablet,0.81,Good,3,Samsung,3,6250
+Desktop,Desktop PC,76.0,Good,7,HP,2,41950
+Keyboard,Keyboard,1.71,Non-Working,10,Dell,1,50
+Tablet,Tablet,0.54,Good,0,Samsung,1,2250
+Desktop,Desktop PC,7.14,Working,2,HP,2,9600
+Desktop,Desktop PC,25.85,Poor,0,Dell,1,5550
+Other,Electronic Device,76.7,Poor,4,Other,1,9450
+TV,LCD TV,68.09,Working,8,TCL,3,62200
+AC,Air Conditioner,47.47,Non-Working,9,Blue Star,2,8950
+Other,Electronic Device,10.52,Poor,2,Other,2,2550
+Monitor,LED Monitor,36.96,Fair,6,LG,2,15950
+Desktop,Desktop PC,45.29,Good,2,Dell,3,32750
+Refrigerator,Refrigerator,43.62,Poor,8,LG,2,12500
+Router,WiFi Router,1.27,Working,6,Netgear,2,1300
+Keyboard,Keyboard,2.0,Good,0,Logitech,2,1200
+Washing Machine,Washing Machine,46.88,Good,8,Samsung,2,24200
+Other,Electronic Device,1.26,Good,7,Other,2,1150
+Mobile,Feature Phone,0.26,Good,4,Vivo,3,3900
+Mouse,Mouse,1.92,Poor,4,HP,2,650
+Other,Electronic Device,48.46,Non-Working,1,Other,1,3600
+Router,WiFi Router,1.33,Fair,9,Netgear,2,500
+Washing Machine,Washing Machine,15.73,Poor,5,Bosch,1,3150
+Monitor,LCD Monitor,42.48,Good,2,Samsung,2,23500
+Refrigerator,Refrigerator,71.9,Good,7,LG,3,28900
+Keyboard,Keyboard,0.35,Non-Working,8,Dell,2,50
+Refrigerator,Refrigerator,74.6,Poor,1,Godrej,3,17700
+Mobile,Feature Phone,0.34,Working,4,Realme,1,1400
+Router,WiFi Router,1.01,Fair,9,Netgear,2,550
+Refrigerator,Refrigerator,64.0,Fair,0,Whirlpool,3,29250
+Router,WiFi Router,1.69,Fair,9,Tenda,3,1200
+Router,WiFi Router,1.76,Working,6,D-Link,2,1450
+Tablet,Tablet,0.76,Working,3,Apple,2,4700
+Router,WiFi Router,1.27,Non-Working,0,Tenda,3,350
+Refrigerator,Refrigerator,65.68,Working,2,Samsung,3,64550
+Mouse,Mouse,0.44,Poor,5,Lenovo,2,250
+Laptop,Laptop,2.74,Poor,5,Dell,2,5000
+Router,WiFi Router,0.83,Working,0,D-Link,3,1500
+Desktop,Desktop PC,20.95,Working,1,HP,2,19700
+Printer,Inkjet Printer,63.79,Fair,3,Brother,2,23300
+Monitor,LCD Monitor,11.38,Non-Working,7,Acer,1,1450
+TV,LED TV,22.66,Non-Working,0,Samsung,2,3550
+Router,WiFi Router,0.48,Non-Working,7,Tenda,2,200
+Other,Electronic Device,17.09,Working,7,Other,3,12350
+Mobile,Feature Phone,0.12,Poor,4,OnePlus,2,1250
+Other,Electronic Device,48.27,Fair,3,Other,1,5850
+Washing Machine,Washing Machine,13.71,Fair,4,Bosch,2,9150
+Refrigerator,Refrigerator,37.7,Fair,1,Samsung,3,26600
+Keyboard,Keyboard,1.42,Non-Working,5,Logitech,3,350
+Washing Machine,Washing Machine,46.1,Working,5,IFB,1,14000
+Mobile,Feature Phone,0.14,Fair,8,Realme,2,1250
+Mobile,Feature Phone,0.25,Fair,1,Apple,2,2350
+Laptop,Laptop,3.1,Working,10,Dell,2,6800
+Mouse,Mouse,1.75,Poor,3,Dell,3,1050
+Printer,Inkjet Printer,71.69,Fair,9,Canon,2,24200
+Mouse,Mouse,0.57,Working,2,Dell,3,1100
+Monitor,LED Monitor,15.39,Poor,6,Dell,2,3000
+Refrigerator,Refrigerator,78.01,Fair,9,Whirlpool,3,31800
+TV,LED TV,17.08,Poor,0,Mi,3,9200
+Mouse,Mouse,0.8,Non-Working,7,Dell,1,150
+Washing Machine,Washing Machine,35.65,Poor,3,Samsung,3,20000
+Desktop,Desktop PC,23.42,Good,2,Dell,2,16550
+Laptop,Laptop,1.46,Poor,6,HP,2,4250
+Router,WiFi Router,0.93,Working,7,Netgear,1,400
+Printer,Laser Printer,52.52,Good,1,Epson,1,7150
+Monitor,LED Monitor,19.73,Working,9,Dell,2,9650
+AC,Air Conditioner,36.45,Fair,8,LG,1,7050
+TV,LCD TV,30.97,Fair,4,TCL,1,7850
+Refrigerator,Refrigerator,64.65,Fair,5,Godrej,3,24450
+Tablet,Tablet,0.87,Working,6,Lenovo,2,3450
+Keyboard,Keyboard,0.7,Fair,9,Lenovo,1,50
+Keyboard,Keyboard,1.03,Fair,3,HP,2,550
+Mobile,Feature Phone,0.29,Working,4,Samsung,3,4950
+TV,LED TV,55.72,Poor,9,Sony,2,8000
+Mobile,Smartphone,0.31,Non-Working,0,OnePlus,3,1500
+Desktop,Desktop PC,75.33,Poor,4,Dell,2,18250
+Mobile,Feature Phone,0.26,Good,0,Samsung,1,1750
+Washing Machine,Washing Machine,9.62,Fair,5,IFB,2,6850
+Mobile,Feature Phone,0.32,Good,10,Samsung,2,1350
+Tablet,Tablet,0.56,Fair,0,Samsung,1,1700
+TV,LCD TV,47.38,Working,9,Samsung,2,27900
+Mobile,Feature Phone,0.33,Poor,8,OnePlus,1,450
+Tablet,Tablet,0.49,Good,10,Realme,3,2900
+Keyboard,Keyboard,0.82,Working,5,HP,2,650
+Monitor,LCD Monitor,42.32,Fair,2,Samsung,2,19050
+Washing Machine,Washing Machine,42.28,Working,9,Bosch,3,38150
+Refrigerator,Refrigerator,63.68,Working,7,Godrej,2,42850
+AC,Air Conditioner,9.87,Working,5,Blue Star,2,12800
+AC,Air Conditioner,17.75,Fair,9,LG,1,5950
+Keyboard,Keyboard,1.58,Good,2,Lenovo,3,1800
+Mobile,Smartphone,0.26,Good,1,Realme,3,4400
+Tablet,Tablet,0.4,Working,2,Realme,3,7250
+AC,Air Conditioner,21.29,Fair,8,LG,2,10300
+AC,Air Conditioner,34.83,Poor,0,Voltas,3,17550
+Other,Electronic Device,9.22,Poor,9,Other,3,4200
+Monitor,LED Monitor,32.69,Good,5,LG,3,15400
+Laptop,Laptop,2.86,Fair,10,Asus,2,4100
+AC,Air Conditioner,27.31,Fair,6,Daikin,2,13200
+Desktop,Desktop PC,58.72,Good,7,HP,2,38400
+Washing Machine,Washing Machine,14.47,Good,8,IFB,1,3900
+Refrigerator,Refrigerator,63.84,Non-Working,6,Godrej,3,10150
+Tablet,Tablet,0.4,Good,7,Lenovo,1,1350
+Mouse,Mouse,1.59,Poor,3,Logitech,3,550
+Keyboard,Keyboard,0.55,Fair,2,Lenovo,2,450
+Monitor,LCD Monitor,41.74,Non-Working,10,Acer,1,2100
+TV,LCD TV,50.61,Fair,9,Sony,3,23200
+Washing Machine,Washing Machine,26.48,Working,10,Samsung,3,22350
+Washing Machine,Washing Machine,46.44,Good,0,IFB,3,38000
+Other,Electronic Device,71.96,Poor,3,Other,3,34350
+Mobile,Feature Phone,0.23,Fair,3,Realme,1,1100
+Monitor,LCD Monitor,22.94,Non-Working,10,Samsung,3,3450
+Keyboard,Keyboard,1.53,Fair,8,HP,3,700
+Tablet,Tablet,0.42,Good,2,Lenovo,1,1800
+Monitor,LCD Monitor,42.64,Good,4,Acer,3,29850
+Router,WiFi Router,0.77,Fair,5,D-Link,3,800
+TV,LCD TV,21.53,Poor,9,Mi,1,2200
+AC,Air Conditioner,20.05,Non-Working,1,Blue Star,1,1800
+Keyboard,Keyboard,0.96,Poor,6,Logitech,2,200
+Mobile,Feature Phone,0.18,Fair,2,Samsung,1,1250
+Router,WiFi Router,0.35,Working,7,TP-Link,1,250
+Mouse,Mouse,0.25,Good,1,Dell,1,50
+TV,LCD TV,18.93,Non-Working,6,Mi,3,3450
+Mouse,Mouse,1.07,Fair,7,Logitech,3,750
+Other,Electronic Device,79.34,Non-Working,2,Other,3,19400
+Desktop,Desktop PC,14.75,Working,5,HP,2,9450
+Refrigerator,Refrigerator,61.77,Fair,1,Whirlpool,2,15350
+Monitor,LCD Monitor,21.6,Working,8,Samsung,3,13700
+Mouse,Mouse,0.4,Working,0,Lenovo,2,650
+Washing Machine,Washing Machine,30.7,Fair,9,LG,2,16700
+Desktop,Desktop PC,71.07,Fair,2,HP,2,32850
+Laptop,Laptop,1.72,Fair,4,Asus,2,7100
+Printer,Inkjet Printer,52.84,Working,5,Canon,3,32950
+Mouse,Mouse,0.18,Working,4,HP,3,500
+Mouse,Mouse,1.49,Fair,0,Lenovo,3,900
+Desktop,Desktop PC,12.97,Working,8,Dell,3,13300
+Mouse,Mouse,1.48,Non-Working,7,HP,2,250
+Washing Machine,Washing Machine,44.85,Poor,6,Whirlpool,3,21000
+Monitor,LCD Monitor,68.0,Poor,0,LG,2,19200
+Monitor,LED Monitor,60.74,Poor,5,Dell,1,5550
+AC,Air Conditioner,71.01,Fair,4,Blue Star,2,29350
+Tablet,Tablet,0.37,Working,8,Samsung,1,1700
+Refrigerator,Refrigerator,9.23,Working,3,Godrej,2,11500
+Other,Electronic Device,64.59,Good,2,Other,1,15350
+Mouse,Mouse,1.59,Poor,3,Lenovo,3,600
+Monitor,LCD Monitor,26.93,Good,1,Acer,1,7750
+Laptop,Laptop,2.48,Good,10,Acer,3,8700
+AC,Air Conditioner,47.43,Working,9,Samsung,3,27750
+Router,WiFi Router,1.59,Working,2,D-Link,2,1400
+Router,WiFi Router,0.98,Good,4,D-Link,1,400
+Printer,Laser Printer,72.84,Poor,3,Canon,1,5700
+Mouse,Mouse,0.35,Good,3,Lenovo,1,150
+Desktop,Desktop PC,22.77,Poor,9,HP,3,8650
+Router,WiFi Router,0.61,Working,3,Tenda,3,800
+Printer,Laser Printer,72.09,Working,7,Epson,3,75450
+Tablet,Tablet,0.38,Good,8,Samsung,2,2700
+Tablet,Tablet,0.66,Good,8,Samsung,1,1250
+Laptop,Laptop,1.5,Working,9,Dell,3,11250
+Router,WiFi Router,1.73,Poor,8,Netgear,2,550
+Mobile,Feature Phone,0.17,Poor,9,Realme,1,450
+Mobile,Feature Phone,0.21,Fair,5,OnePlus,3,2650
+Mouse,Mouse,0.78,Non-Working,2,HP,1,50
+Monitor,LCD Monitor,60.57,Working,7,BenQ,3,60800
+Mouse,Mouse,0.59,Non-Working,7,Dell,2,50
+Desktop,Desktop PC,72.83,Fair,3,Lenovo,2,23300
+Printer,Inkjet Printer,32.39,Working,4,Epson,3,17650
+Mouse,Mouse,1.54,Good,7,HP,1,400
+Other,Electronic Device,43.11,Working,3,Other,2,28000
+Desktop,Desktop PC,71.88,Working,5,Dell,1,12300
+Refrigerator,Refrigerator,71.63,Fair,10,LG,2,28850
+Laptop,Laptop,2.04,Non-Working,4,Asus,2,2800
+TV,LCD TV,34.77,Working,10,Mi,1,5950
+Desktop,Desktop PC,15.81,Non-Working,3,HP,2,2400
+Mouse,Mouse,0.7,Good,8,Logitech,2,550
+Tablet,Tablet,0.41,Working,0,Samsung,3,8750
+Washing Machine,Washing Machine,59.43,Working,10,LG,3,58550
+Keyboard,Keyboard,1.7,Good,0,Lenovo,1,600
+Mobile,Smartphone,0.28,Working,6,Vivo,1,1200
+AC,Air Conditioner,41.5,Good,4,Voltas,1,9950
+Other,Electronic Device,60.98,Non-Working,0,Other,3,14950
+Keyboard,Keyboard,1.16,Working,7,Dell,2,750
+Tablet,Tablet,0.65,Good,10,Realme,1,950
+Printer,Laser Printer,68.81,Good,2,Epson,2,35300
+Mouse,Mouse,0.13,Non-Working,8,HP,3,50
+Refrigerator,Refrigerator,56.59,Fair,7,LG,2,15500
+Laptop,Laptop,2.14,Good,10,Asus,3,7800
+Keyboard,Keyboard,1.82,Non-Working,8,Logitech,2,350
+Refrigerator,Refrigerator,15.64,Working,0,Godrej,2,16500
+Tablet,Tablet,0.64,Working,3,Samsung,3,6900
+Tablet,Tablet,0.4,Non-Working,3,Lenovo,1,500
+TV,LCD TV,37.69,Working,2,Samsung,1,9450
+Tablet,Tablet,0.7,Fair,2,Realme,3,4550
+Router,WiFi Router,1.94,Good,7,D-Link,3,1800
+Laptop,Laptop,1.74,Good,5,Dell,2,8750
+Refrigerator,Refrigerator,19.87,Good,8,LG,1,6350
+Refrigerator,Refrigerator,38.11,Good,3,Godrej,1,10700
+Tablet,Tablet,0.59,Working,9,Lenovo,2,2600
+Washing Machine,Washing Machine,65.52,Good,0,Bosch,3,62650
+Keyboard,Keyboard,0.19,Good,0,Lenovo,3,750
+Refrigerator,Refrigerator,54.0,Good,0,LG,2,40900
+Router,WiFi Router,1.68,Working,3,D-Link,2,1000
+Other,Electronic Device,64.23,Fair,4,Other,3,34450
+Mouse,Mouse,0.25,Good,6,Dell,3,500
+AC,Air Conditioner,29.59,Fair,9,Samsung,3,27150
+Monitor,LCD Monitor,10.52,Non-Working,5,Dell,2,1700
+Laptop,Laptop,2.59,Fair,10,Dell,3,6200
+Printer,Laser Printer,52.53,Poor,5,Epson,2,11350
+Router,WiFi Router,0.62,Good,9,D-Link,2,650
+Washing Machine,Washing Machine,35.05,Good,9,Whirlpool,1,4950
+Mouse,Mouse,1.41,Good,7,Lenovo,1,400
+AC,Air Conditioner,52.02,Fair,10,Voltas,2,20700
+Laptop,Laptop,2.55,Fair,1,Acer,2,8350
+Tablet,Tablet,0.48,Non-Working,2,Lenovo,1,600
+Keyboard,Keyboard,0.5,Non-Working,10,Dell,3,100
+Other,Electronic Device,11.27,Poor,4,Other,2,2650
+Desktop,Desktop PC,71.18,Fair,8,Dell,1,10550
+Router,WiFi Router,1.94,Poor,4,TP-Link,1,350
+Mobile,Smartphone,0.3,Poor,2,Xiaomi,2,1450
+Tablet,Tablet,0.54,Good,10,Lenovo,3,2850
+Refrigerator,Refrigerator,79.98,Working,1,Whirlpool,3,80850
+TV,LED TV,63.61,Good,6,Mi,1,14800
+Monitor,LCD Monitor,18.99,Non-Working,4,Samsung,3,4350
+TV,LED TV,44.4,Working,7,TCL,1,16000
+Mouse,Mouse,1.94,Non-Working,9,Lenovo,2,150
+Laptop,Laptop,2.33,Good,10,Lenovo,1,2500
+Laptop,Laptop,2.93,Non-Working,1,Acer,3,5500
+Desktop,Desktop PC,16.84,Working,3,Dell,1,8100
+Laptop,Laptop,2.99,Working,5,Lenovo,3,15450
+TV,LED TV,3.41,Non-Working,9,Samsung,2,1300
+Mouse,Mouse,1.63,Good,7,Dell,1,650
+Tablet,Tablet,0.35,Non-Working,8,Lenovo,1,250
+Mobile,Smartphone,0.14,Good,3,Vivo,3,3650
+Mouse,Mouse,1.2,Fair,2,HP,2,500
+Refrigerator,Refrigerator,9.92,Poor,5,Godrej,2,3750
+Mouse,Mouse,1.74,Good,6,Dell,2,750
+TV,LED TV,47.08,Poor,0,LG,2,17150
+Washing Machine,Washing Machine,61.01,Working,6,Samsung,2,49000
+TV,LCD TV,51.33,Fair,1,TCL,2,24600
+Monitor,LED Monitor,73.43,Poor,6,Samsung,2,25050
+Keyboard,Keyboard,0.62,Good,8,HP,1,200
+Mobile,Feature Phone,0.12,Working,8,Realme,3,2950
+Keyboard,Keyboard,0.61,Poor,3,Lenovo,2,450
+Refrigerator,Refrigerator,77.16,Working,9,Whirlpool,2,42400
+Mouse,Mouse,1.3,Poor,9,HP,3,400
+Refrigerator,Refrigerator,61.12,Non-Working,8,Samsung,1,3050
+Desktop,Desktop PC,51.11,Non-Working,0,Dell,2,9700
+Mobile,Feature Phone,0.2,Good,6,Samsung,1,1100
+Router,WiFi Router,0.89,Poor,8,TP-Link,2,300
+Router,WiFi Router,1.53,Working,8,Tenda,3,1200
+Desktop,Desktop PC,25.93,Fair,4,HP,2,12600
+TV,LCD TV,43.96,Working,9,Mi,1,16300
+Mobile,Feature Phone,0.28,Non-Working,2,Samsung,3,1500
+Refrigerator,Refrigerator,58.26,Non-Working,9,Godrej,2,9450
+Monitor,LED Monitor,62.15,Poor,7,Acer,2,18150
+Other,Electronic Device,30.05,Working,6,Other,1,6350
+Printer,Laser Printer,18.64,Fair,10,HP,1,4550
+Washing Machine,Washing Machine,24.0,Working,10,IFB,3,25500
+Router,WiFi Router,0.57,Good,6,Tenda,2,750
+Keyboard,Keyboard,1.93,Working,8,Logitech,3,2100
+Printer,Laser Printer,71.79,Poor,10,HP,3,16050
+Mouse,Mouse,1.32,Poor,3,Dell,2,550
+Washing Machine,Washing Machine,55.51,Fair,1,Bosch,1,9650
+Router,WiFi Router,1.9,Non-Working,5,D-Link,2,400
+Mobile,Feature Phone,0.25,Good,2,Vivo,2,2850
+Mouse,Mouse,1.35,Working,3,HP,3,1900
+Washing Machine,Washing Machine,18.31,Good,1,Whirlpool,3,16100
+Monitor,LCD Monitor,63.62,Non-Working,1,LG,3,12550
+Mobile,Feature Phone,0.29,Working,7,Vivo,3,3550
+Monitor,LCD Monitor,61.32,Non-Working,8,BenQ,2,9650
+Mouse,Mouse,1.86,Working,10,Logitech,2,900
+Keyboard,Keyboard,0.58,Working,2,Lenovo,1,350
+Monitor,LED Monitor,13.15,Non-Working,1,Dell,1,950
+Monitor,LCD Monitor,60.59,Non-Working,0,Dell,2,8300
+Mobile,Smartphone,0.18,Fair,10,Apple,1,550
+Keyboard,Keyboard,1.53,Working,0,Logitech,2,1400
+Router,WiFi Router,0.53,Good,10,Tenda,3,700
+Router,WiFi Router,0.77,Non-Working,6,D-Link,1,50
+Monitor,LED Monitor,38.63,Good,3,BenQ,1,7700
+Other,Electronic Device,17.36,Working,3,Other,2,11500
+Tablet,Tablet,0.6,Working,10,Realme,3,3550
+AC,Air Conditioner,66.16,Fair,0,Blue Star,3,55850
+Other,Electronic Device,44.19,Fair,8,Other,2,11500
+Printer,Laser Printer,1.8,Good,2,Canon,3,4000
+Mouse,Mouse,0.53,Fair,8,Logitech,1,50
+Washing Machine,Washing Machine,20.97,Good,8,Whirlpool,3,20350
+Printer,Laser Printer,60.59,Good,4,Brother,1,12450
+Keyboard,Keyboard,0.61,Fair,0,HP,2,450
+Laptop,Laptop,2.4,Good,8,Lenovo,1,3500
+Desktop,Desktop PC,30.17,Non-Working,7,HP,3,8350
+Keyboard,Keyboard,1.63,Working,9,HP,1,700
+Router,WiFi Router,0.37,Working,3,Tenda,1,300
+Laptop,Laptop,2.65,Fair,6,Dell,1,3400
+Monitor,LCD Monitor,2.27,Poor,2,Samsung,1,1300
+Router,WiFi Router,0.29,Fair,2,D-Link,1,50
+Tablet,Tablet,0.75,Non-Working,2,Lenovo,3,1950
+Washing Machine,Washing Machine,13.42,Good,6,Samsung,2,11100
+Refrigerator,Refrigerator,74.89,Non-Working,6,Whirlpool,3,9400
+Refrigerator,Refrigerator,5.1,Fair,4,Whirlpool,1,2650
+Washing Machine,Washing Machine,70.36,Fair,7,Whirlpool,1,10550
+Washing Machine,Washing Machine,55.15,Good,1,IFB,1,16600
+Other,Electronic Device,62.7,Poor,7,Other,1,6050
+AC,Air Conditioner,73.26,Working,9,LG,2,59100
+Tablet,Tablet,0.45,Fair,0,Lenovo,1,1600
+Keyboard,Keyboard,1.25,Fair,2,Lenovo,2,600
+Keyboard,Keyboard,1.23,Working,5,Lenovo,3,1350
+Monitor,LCD Monitor,37.18,Working,1,BenQ,2,26350
+Washing Machine,Washing Machine,56.82,Fair,8,Whirlpool,3,29300
+Router,WiFi Router,0.43,Working,8,D-Link,1,350
+Keyboard,Keyboard,1.57,Fair,8,Logitech,1,250
+Monitor,LED Monitor,21.0,Good,0,Samsung,1,8300
+TV,LED TV,40.35,Poor,1,Sony,3,11700
+Washing Machine,Washing Machine,35.29,Good,10,LG,3,17700
+Washing Machine,Washing Machine,53.98,Poor,7,LG,1,10250
+Monitor,LED Monitor,3.33,Good,4,Dell,2,4200
+AC,Air Conditioner,48.17,Fair,6,Samsung,2,25200
+Desktop,Desktop PC,39.99,Good,7,HP,3,33250
+Other,Electronic Device,24.03,Poor,0,Other,1,2150
+Keyboard,Keyboard,1.12,Good,0,Dell,1,500
+Router,WiFi Router,1.76,Fair,5,D-Link,2,1000
+Tablet,Tablet,0.78,Good,5,Realme,3,5050
+Printer,Inkjet Printer,38.09,Working,0,Epson,3,26800
+Mobile,Smartphone,0.18,Working,4,Samsung,2,3200
+Monitor,LED Monitor,9.72,Good,3,Acer,3,11000
+Printer,Inkjet Printer,29.19,Good,3,Brother,1,8950
+Tablet,Tablet,0.53,Good,9,Apple,3,3300
+Laptop,Laptop,1.41,Good,2,Asus,3,16400
+Printer,Inkjet Printer,28.24,Good,8,Epson,2,10300
+Tablet,Tablet,0.58,Poor,3,Lenovo,3,3050
+Tablet,Tablet,0.75,Fair,5,Apple,1,1350
+Other,Electronic Device,14.09,Non-Working,9,Other,2,1900
+AC,Air Conditioner,49.01,Working,6,Voltas,2,24000
+Mouse,Mouse,1.19,Non-Working,8,HP,1,250
+AC,Air Conditioner,14.56,Fair,2,Blue Star,2,11300
+Router,WiFi Router,1.11,Working,0,TP-Link,1,550
+Printer,Inkjet Printer,31.96,Non-Working,6,Canon,1,2800
+Laptop,Laptop,1.24,Poor,8,Lenovo,1,1600
+AC,Air Conditioner,21.01,Working,8,LG,1,10300
+Washing Machine,Washing Machine,39.32,Good,8,Bosch,3,35500
+Keyboard,Keyboard,0.24,Good,7,Dell,3,300
+Mobile,Feature Phone,0.13,Good,8,OnePlus,3,2350
+Mobile,Smartphone,0.3,Good,10,Apple,1,750
+Desktop,Desktop PC,28.69,Good,10,Lenovo,2,12150
+Keyboard,Keyboard,1.87,Good,1,Dell,1,550
+Mouse,Mouse,0.28,Working,8,Lenovo,1,200
+Printer,Laser Printer,41.92,Working,4,Epson,1,10200
+Mouse,Mouse,0.47,Non-Working,9,Logitech,3,250
+AC,Air Conditioner,46.73,Fair,9,Daikin,2,17350
+Keyboard,Keyboard,0.61,Working,10,Logitech,1,250
+Mouse,Mouse,1.52,Fair,9,Dell,2,550
+AC,Air Conditioner,36.61,Non-Working,0,LG,3,11850
+Other,Electronic Device,22.29,Working,9,Other,2,8350
+Monitor,LED Monitor,21.91,Fair,3,Acer,2,9800
+Laptop,Laptop,2.13,Good,4,Lenovo,3,12600
+Refrigerator,Refrigerator,68.79,Poor,8,Godrej,2,22950
+Refrigerator,Refrigerator,53.67,Working,7,Whirlpool,1,15950
+TV,LCD TV,66.31,Non-Working,10,Mi,2,5200
+Router,WiFi Router,0.7,Non-Working,10,Netgear,1,50
+Keyboard,Keyboard,0.13,Working,4,HP,2,450
+Monitor,LCD Monitor,11.48,Fair,9,Dell,3,9050
+Tablet,Tablet,0.57,Good,3,Samsung,1,2200
+Keyboard,Keyboard,1.2,Fair,6,Lenovo,3,1050
+Printer,Laser Printer,42.69,Working,2,HP,2,26250
+Washing Machine,Washing Machine,40.82,Non-Working,1,Whirlpool,3,13150

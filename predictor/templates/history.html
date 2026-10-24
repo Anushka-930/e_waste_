@@ -1,0 +1,39 @@
+﻿{% extends "base.html" %}
+
+{% block title %}Prediction history{% endblock %}
+
+{% block content %}
+<section class="page-header">
+    <h2>Prediction history</h2>
+</section>
+{% if history %}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Device</th>
+            <th>Category</th>
+            <th>Weight</th>
+            <th>Condition</th>
+            <th>Value</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in history %}
+        <tr>
+            <td>{{ item.device_type }}</td>
+            <td>{{ item.category }}</td>
+            <td>{{ item.weight_kg }} kg</td>
+            <td>{{ item.condition }}</td>
+            <td>₹{{ item.estimated_value }}</td>
+            <td><a href="{% url 'edit_prediction' item.id %}">Edit</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% else %}
+<div class="card" style="margin-top:1rem;">
+    No predictions yet. <a href="{% url 'predict' %}">Create one now</a>.
+</div>
+{% endif %}
+{% endblock %}
